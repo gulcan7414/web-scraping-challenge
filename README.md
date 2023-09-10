@@ -1,4 +1,5 @@
-# Web-Scraping-Challenge
+# Web Scraping Challenge
+
 ### Full Web-Scraping and Data Analysis Project
 Part 1: 
 
